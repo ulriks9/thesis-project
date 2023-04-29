@@ -1,4 +1,4 @@
-data
-checkpoints
-checkpoints_beta_ts_1000.zip
-.ipynb_checkpoints
+implementations/train_mnist
+implementations/ddpm_3/train_mnist
+implementations/ddpm_3/train_yesno
+implementations/ddpm_3/wandb
